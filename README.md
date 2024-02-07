@@ -16,3 +16,4 @@ Run  these commands to get started
 - ` yarn // to install the dependencies `
 - ` yarn dev // to run both server and backend `
 
+![image description](screenshots/screenshot.png)
